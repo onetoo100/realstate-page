@@ -1,4 +1,3 @@
-import React from "react";
 import { FC, HTMLProps } from "react";
 
 interface ImageComponentProps extends HTMLProps<HTMLImageElement> {
