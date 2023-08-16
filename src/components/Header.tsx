@@ -9,7 +9,6 @@ const Header = () => {
       <div className="header__barra contenedor">
         <div className="header__logo">
           <ImageComponent imageUrl={logo} alt="logo real state" />
-          ima
         </div>
 
         <Nav />
